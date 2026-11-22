@@ -1,0 +1,15 @@
+{
+  "name": "Algoritmos de IA interactivos",
+  "short_name": "Algoritmos IA",
+  "description": "Practica algoritmos de IA paso a paso: minimax con poda alfa-beta, UCS, voraz, A*, KNN, K-means, encadenamiento hacia delante y hacia atrás, redes neuronales y árboles de decisión.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#2b6cb0",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
